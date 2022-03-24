@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\Ex9_2\bin\Debug\Ex9_2.exe.config
+D:\cat32tw\Desktop\Ex9_2\bin\Debug\Ex9_2.exe
+D:\cat32tw\Desktop\Ex9_2\bin\Debug\Ex9_2.pdb
+D:\cat32tw\Desktop\Ex9_2\obj\Debug\Ex9_2.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\Ex9_2\obj\Debug\Ex9_2.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\Ex9_2\obj\Debug\Ex9_2.Form1.resources
+D:\cat32tw\Desktop\Ex9_2\obj\Debug\Ex9_2.Properties.Resources.resources
+D:\cat32tw\Desktop\Ex9_2\obj\Debug\Ex9_2.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\Ex9_2\obj\Debug\Ex9_2.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\Ex9_2\obj\Debug\Ex9_2.exe
+D:\cat32tw\Desktop\Ex9_2\obj\Debug\Ex9_2.pdb
